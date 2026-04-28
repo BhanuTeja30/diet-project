@@ -1,0 +1,6 @@
+{
+  "name": "NutriBalance",
+  "description": "A comprehensive dietary analysis platform designed to balance diets and detect nutrient deficits, specifically for children and adolescents. Includes personalized meal planning and health tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Nutritional analysis", "Meal planning", "Health monitoring"]
+}
